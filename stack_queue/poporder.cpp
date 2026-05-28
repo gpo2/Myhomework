@@ -123,6 +123,6 @@ bool Abstack::isEmpty()
 
 int main()
 {
-    
+      
     return 0;
 }
